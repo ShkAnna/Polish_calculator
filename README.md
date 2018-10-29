@@ -10,7 +10,7 @@ javac *.java
 java Test "(your values)"
 ~~~
 
-##### For exemple: <br />
+#### For exemple: <br />
 Command line -> java Test "3 4 +" <br />
 Result -> Expression : 3 4 + , result : 7
 
